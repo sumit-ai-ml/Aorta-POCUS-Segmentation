@@ -1,5 +1,15 @@
 
+
 Welcome to the official repository for the research paper titled "Deep Learning Models for Abdominal Aorta Segmentation in Point-of-Care Ultrasound Images." This repository houses the code and resources associated with the investigation and comparison of six state-of-the-art deep learning models designed for segmenting the short axis of the abdominal aorta in point-of-care ultrasound (POCUS) images.
+
+**Here an Web-app:**
+
+<iframe
+	src="https://sumit-ai-ml-aorta-segmentation.hf.space"
+	frameborder="0"
+	width="850"
+	height="450"
+></iframe>
 
 - **Introduction:**
 In the realm of medical imaging, accurate and efficient segmentation of anatomical structures is crucial for diagnostic precision and patient care. This paper presents a comprehensive study that delves into the performance of six cutting-edge deep learning models when applied to the task of segmenting the abdominal aorta in POCUS images. The project was undertaken with the aim of improving health screening processes, particularly in remote areas, where access to specialized medical services may be limited.
@@ -21,12 +31,4 @@ These findings bear significant implications for healthcare diagnostics, especia
 
 In this repository, you will find the code, documentation, and resources necessary to replicate and extend this research. We invite researchers, developers, and medical professionals to explore, contribute, and utilize these findings to drive innovation in the field of medical image analysis.
 
-**Here an Web-app:**
-
-<iframe
-	src="https://sumit-ai-ml-aorta-segmentation.hf.space"
-	frameborder="0"
-	width="850"
-	height="450"
-></iframe>
 
