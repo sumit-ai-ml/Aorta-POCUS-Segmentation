@@ -7,7 +7,7 @@ Welcome to the official repository for the research paper titled "Deep Learning 
 <iframe
 	src="https://sumit-ai-ml-aorta-segmentation.hf.space"
 	frameborder="0"
-	width="850"
+	width="1000"
 	height="450"
 ></iframe>
 
