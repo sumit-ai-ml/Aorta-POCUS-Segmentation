@@ -8,7 +8,7 @@ Welcome to the official repository for the research paper titled "Deep Learning 
 	src="https://sumit-ai-ml-aorta-segmentation.hf.space"
 	frameborder="0"
 	width="850"
-	height="650"
+	height="570"
 ></iframe>
 
 **Input:** The input of this software will be 2-d POCUS image with an extension of `.png or .jpg` and any size (x, y, 3). Here are few sample images that can be used as an input, please click here. 
