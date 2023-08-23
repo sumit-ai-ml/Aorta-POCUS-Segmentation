@@ -1,6 +1,6 @@
 
 
-Welcome to the official repository for the research paper titled "Deep Learning Models for Abdominal Aorta Segmentation in Point-of-Care Ultrasound Images." This repository houses the code and resources associated with the investigation and comparison of six state-of-the-art deep learning models designed for segmenting the short axis of the abdominal aorta in point-of-care ultrasound (POCUS) images.
+Welcome to the official repository for the research paper titled "..............................." This repository houses the code and resources associated with the investigation and comparison of six state-of-the-art deep learning models designed for segmenting the short axis of the abdominal aorta in point-of-care ultrasound (POCUS) images.
 
 
 
