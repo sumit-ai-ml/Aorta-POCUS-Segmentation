@@ -10,5 +10,9 @@ The web application is hosted using the Hugging Face Spaces platform, providing 
 - **Privacy Assurance:**
 We want to assure our users that this software respects your data privacy. We do not gather or retain any image data from interactions with this web software. Additionally, based on our current knowledge, the Hugging Face Spaces platform also upholds stringent privacy practices and does not collect image data. For a more comprehensive understanding of our privacy policies and those of Hugging Face, please refer to the following link: [Privacy Information](https://huggingface.co/docs/inference-endpoints/security).
 
-Feel free to explore the software, 
+Please feel at liberty to delve into the depths of our software. Should any queries arise or if you find yourself yearning for a hearty discussion, fear not – for this is the realm where such conversations flourish. Your inquiries and insights are both valued and encouraged.
+
+Don't hesitate to initiate a dialogue by visiting our dedicated space here: [Aorta-POCUS-Segmentation Discussions](https://github.com/sumit-ai-ml/Aorta-POCUS-Segmentation/discussions/1).
+
+Your participation enriches our community, and we eagerly anticipate the conversations that will unfold.
 
