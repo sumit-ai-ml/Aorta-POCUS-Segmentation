@@ -10,5 +10,5 @@ The web application is hosted using the Hugging Face Spaces platform, providing 
 - **Privacy Assurance:**
 We want to assure our users that this software respects your data privacy. We do not gather or retain any image data from interactions with this web software. Additionally, based on our current knowledge, the Hugging Face Spaces platform also upholds stringent privacy practices and does not collect image data. For a more comprehensive understanding of our privacy policies and those of Hugging Face, please refer to the following link: [Privacy Information](https://huggingface.co/docs/inference-endpoints/security).
 
-Feel free to explore the software on the Hugging Face Spaces platform and engage with the sample images to experience its functionalities firsthand. Your data privacy is of paramount importance to us, and we aim to provide a secure and beneficial user experience.
+Feel free to explore the software, 
 
