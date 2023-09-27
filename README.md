@@ -7,3 +7,5 @@ Welcome to the official repository for the research paper titled "..............
 
 
 [**Here is the Web-app:**](https://mlshots.live/Aorta-POCUS-Segmentation/software).
+
+[attention UNet](https://www.kaggle.com/embed/sumitai/attention-unet?kernelSessionId=121242354)
