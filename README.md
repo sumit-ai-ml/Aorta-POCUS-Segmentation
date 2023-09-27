@@ -8,9 +8,13 @@ Welcome to the official repository for the research paper titled "..............
 
 [**Here is the Web-app:**](https://mlshots.live/Aorta-POCUS-Segmentation/software).
 
+Here are the Jupiter notebook: 
+
 [Attention UNet](https://www.kaggle.com/embed/sumitai/attention-unet?kernelSessionId=121242354)
 
 [UNet](https://www.kaggle.com/embed/sumitai/unet-ultrasound-images?kernelSessionId=59088631)
+
 [ResUNet](https://www.kaggle.com/embed/sumitai/resunet?kernelSessionId=121264487)
+
 [Attnetion Res UNet](https://www.kaggle.com/embed/sumitai/resattention-unet?kernelSessionId=121271168)
 
