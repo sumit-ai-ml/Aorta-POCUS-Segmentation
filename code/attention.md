@@ -1,1 +1,0 @@
-<iframe src="https://www.kaggle.com/embed/sumitai/attention-unet?kernelSessionId=121242354" height="2000" style="margin: 0 auto; width: 100%; max-width: 950px;" frameborder="0" scrolling="auto" title="attention unet"></iframe>
