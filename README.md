@@ -1,6 +1,6 @@
 
 
-Welcome to the official repository for the research paper titled "..............................." This repository houses the code and resources associated with the investigation and comparison of six state-of-the-art deep learning models designed for segmenting the short axis of the abdominal aorta in point-of-care ultrasound (POCUS) images.
+Welcome to the official repository for the research paper titled "**Validating YOLOv8 and SAM Foundation Models for Robust Point-of-Care Ultrasound Segmentation**" This repository houses the code and resources associated with the investigation and comparison of six state-of-the-art deep learning models designed for segmenting the short axis of the abdominal aorta in point-of-care ultrasound (POCUS) images.
 
 <iframe src="https://sumit-ai-ml-aorta-segmentation.hf.space" frameborder="0" width="850" height="570" ></iframe>
 
